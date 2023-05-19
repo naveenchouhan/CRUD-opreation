@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+    color: rgb(20, 230, 180);
+    text-align: center;
+
+
+}
+h1,h2{
+    font-family: 'Dancing Script', cursive;
+
+}
+.main-div{
+    margin: 10% 20% 2%; 
+    border: solid rgb(0, 255, 229);
+    padding: 1%;
+}
+.textarea{
+    margin: 1% 0%;
+    width: 97%;
+    size: 100%;
+}
+.delete-update{
+    margin: 0 20% 2%; 
+    border: solid rgb(0, 255, 229);
+    padding: 1%;
+}
+#table{
+    border-collapse: collapse;
+    width: 100%; 
+    text-align: center;
+}
+
+tr ,td{
+    border: 1px solid rgb(49, 164, 247); 
+    padding: 8px; 
+    word-wrap: break-word;
+}
+.data{
+    width: 60%;
+}
